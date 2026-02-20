@@ -57,9 +57,13 @@ git clone https://github.com/jp2d/Blog-BancodeDados.git
 
 ### 3. Estrura de pastas deve ser:
 Blog/
+
 │
+
 ├── Blog-backend/               # API em ASP.NET Core
+
 ├── Blog-frontend/               # Aplicação React + TypeScript
+
 └── Blog-BancodeDados/    # Docker-Composer para criação do containers
 
 ---
